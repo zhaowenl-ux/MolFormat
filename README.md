@@ -7,3 +7,4 @@
   - x : one of 2D coordinates of the bond - the 1st atom number
   - y : another 2D coordinates of the bond - the 2nd atom number
   - bond : bond list represented by the numeric token
+- train_ep.py: Using Transformer and 2D RoPE encoding to train LogP dataset
